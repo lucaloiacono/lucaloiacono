@@ -1,7 +1,7 @@
 # Hi, i'm Luca Lo Iacono
 <img src="https://komarev.com/ghpvc/?username=lucaloiacono&style=for-the-badge">
 
-🚀 I'm a technology enthusiast and seasoned developer with extensive experience in software and cloud technologies. Currently, I hold the position of Software Engineer at my company, @tokemsrl, where i design and develop tailored software solutions but i also oversee the commercial aspects of the business.
+🚀 I'm a technology enthusiast and seasoned developer with extensive experience in software and cloud technologies. Currently, I hold the position of Software Engineer at my company [@tokemsrl](https://github.com/tokemsrl), where i design and develop tailored software solutions but i also oversee the commercial aspects of the business.
 
 ## GitHub Stats
 <p>
